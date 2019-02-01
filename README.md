@@ -100,7 +100,7 @@ OUTPUT: 0.6659842519685039
 
 Clearly, this isn't what we want. The actual f1-score should be
 
-precision = $\frac{TP}{TP+FP}$ = $\frac{2}{2+4}$ = $0.3333$
+precision = $\\frac{TP}{TP+FP}$ = $\\frac{2}{2+4}$ = $0.3333$
 
 recall = $\frac{TP}{TP + FN}$ = $\frac{2}{2+17}$ = $0.1053$
 
