@@ -43,7 +43,7 @@ The motivation to do this project is to lean customer churn predictive modeling,
 
 ## Side Notes
 #### 1) Errors you may encounter when running on the code on the cloud
-When running the notebooks on any cloud service, you might encounter issues such as error messages stating that the session isn't active, the notebook crashing and restarting, etc. This likely meant that the cluster have encountered memory issues and the easiest wy to resolve it will be to terminate your current cluster, create a new cluster and connect your notebook to the new cluster. Afterwards, you can run whichever cells that have not been run.
+When running the notebooks on any cloud service, you might encounter issues such as error messages stating that the session isn't active, the notebook crashing and restarting, etc. This likely meant that the cluster have encountered memory issues and the easiest way to resolve it will be to terminate your current cluster, create a new cluster and connect your notebook to the new cluster. Afterwards, you can run whichever cells that have not been run.
 
 When running the notebook on AWS EMR, you might encounter these two error/exception messages when running certain cells.
 ```
